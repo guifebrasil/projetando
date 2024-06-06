@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.GGG{
+    display: flex;
+    flex-direction: row;
+}
+
+.cv{
+    height: 230px;
+}
